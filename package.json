@@ -1,0 +1,19 @@
+{
+  "name": "boilermaker",
+  "version": "1.0.0",
+  "description": "practicing creating boilerplate from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veekas/boilermaker.git"
+  },
+  "author": "veekas shrivastava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veekas/boilermaker/issues"
+  },
+  "homepage": "https://github.com/veekas/boilermaker#readme"
+}
