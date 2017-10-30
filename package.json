@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/veekas/boilermaker#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "webpack-dev-server": "^2.9.3"
   },
   "devDependencies": {
